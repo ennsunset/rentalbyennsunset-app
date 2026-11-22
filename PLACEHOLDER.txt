@@ -1,0 +1,1 @@
+This is a placeholder push. The full Next.js project will be committed in the next step.
